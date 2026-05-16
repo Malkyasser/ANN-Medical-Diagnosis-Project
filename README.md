@@ -64,10 +64,3 @@ Training and validation accuracy improved over epochs.
 - Training vs Validation Loss
 - Training vs Validation Accuracy
 
----
-
-## How to Run
-1. Open Google Colab
-2. Copy the project code
-3. Run all cells
-4. View graphs and final accuracy
